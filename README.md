@@ -1,5 +1,5 @@
 # Welcome to DoDucHoa repository
-This repo contains the source code about the solution on [HackerRank] (https://www.hackerrank.com) website.
+This repo contains the source code about the solution on [HackerRank](https://www.hackerrank.com) website.
 
 ## You will find in this repo:
 * Basic Data Types
