@@ -9,8 +9,8 @@ This repo contains the source code about the solution on [HackerRank](https://ww
 * Strings
 
 ## Connect me via 
-1. [GitHub](http://github.com/DoDucHoa)
-2. [Facebook](http://facebook.com/MinOrMaxzee)
-3. [Email](http://hhoa0978@gmail.com)
+1. [GitHub](http://github.com/DoDucHoa "My GitHub website")
+2. [Facebook](http://facebook.com/MinOrMaxzee "My facebook")
+3. [Email](http://hhoa0978@gmail.com "My primary mail")
 
 #### © 2020 by DoDucHoa | FPT University - HCMC Campus
