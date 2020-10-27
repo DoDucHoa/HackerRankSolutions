@@ -1,5 +1,5 @@
 # Welcome to DoDucHoa repository
-This repo contains the source code about the solution on [HackerRank](https://www.hackerrank.com) website.
+This repo contains the Python source code about the solution on [HackerRank](https://www.hackerrank.com) website.
 
 ## You will find in this repo:
 * Basic Data Types
@@ -13,4 +13,4 @@ This repo contains the source code about the solution on [HackerRank](https://ww
 2. [Facebook](http://facebook.com/MinOrMaxzee)
 3. [Email](http://hhoa0978@gmail.com)
 
-#### © 2020 by DoDucHoa | FPT University - HCMC Campus
+#### Â© 2020 by DoDucHoa | FPT University - HCMC Campus
